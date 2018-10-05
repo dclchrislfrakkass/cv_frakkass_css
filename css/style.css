@@ -79,8 +79,13 @@ em{
     font-style: italic;
     
 }
+.fetiche {
+    margin-bottom: 150px;
+}
 footer { 
+    background-color: white;
     text-align: right;
     width: 100%;
-    
+    bottom: 0px;
+    position: fixed ;
 }
